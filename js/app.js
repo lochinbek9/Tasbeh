@@ -10,7 +10,7 @@ const score = document.querySelector("h2");
 
 const all = document.querySelector("h4");
 
-let audio = new Audio('ovoz.mp3');
+let audio = new Audio('./music/ovoz.mp3');
 
 let a = 0;
 let b = 0;
